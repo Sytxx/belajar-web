@@ -1,0 +1,52 @@
+.lampu {
+    width: 50%;
+}
+
+/* .ruangtamu {
+    color: white;
+    display: flex;
+    position: relative;
+} */
+
+#container {
+    position: relative;
+}
+
+.ruangtamu-teks {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    /* text-align: center; */
+    /* justify-content: center;
+    text-align: center;  */
+}
+
+.ruangkeluarga-teks {
+    position: absolute;
+    text-align: center;
+    /* background-color: white; */
+    /* margin-left: 22px; */
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+#container-ruangkeluarga {
+    margin-top: 60px;
+}
+
+.ruangmakan-teks {
+    position: absolute;
+    /* background-color: white; */
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+    
+.text-black {
+    text-transform: capitalize  ;
+}
+
+.container-dua {
+    background-color: white;
+    
+}
